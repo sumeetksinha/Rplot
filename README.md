@@ -9,10 +9,10 @@ Matplotlib style sheet to create plots for scientific journals
 ## Installation
 To use this style place 
 ```
-pip install DAQData
+place the file 'Rplot.mplstyle' in the directory ...\Lib\site-packages\matplotlib\mpl-data\stylelib
 ```
 
-## Read meta data from the binary file
+## Plot data
 ```python
 import numpy as np
 import matplotlib.pyplot as plt
