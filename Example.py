@@ -15,7 +15,7 @@ y = np.sin(np.linspace(0, 2 * np.pi));
 x = np.linspace(0,len(y),len(y));
 
 # initialize a figure with proper figure size and the axis
-Figure = plt.figure(figsize=(8,4));
+Figure = plt.figure(figsize=(8,3));
 Figure_Axis = plt.subplot(111)
 
 # plot the data

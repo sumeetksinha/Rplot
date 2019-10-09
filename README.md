@@ -9,7 +9,7 @@ Matplotlib style sheet to create plots for scientific journals
 ## Installation
 To use this style place 
 ```
-place the file 'Rplot.mplstyle' in the directory ...\Lib\site-packages\matplotlib\mpl-data\stylelib
+Place the file 'Rplot.mplstyle' in the directory ...\Lib\site-packages\matplotlib\mpl-data\stylelib
 ```
 
 ## Plot data
@@ -24,7 +24,7 @@ y = np.sin(np.linspace(0, 2 * np.pi));
 x = np.linspace(0,len(y),len(y));
 
 # initialize a figure with proper figure size and the axis
-Figure = plt.figure(figsize=(8,4));
+Figure = plt.figure(figsize=(8,3));
 Figure_Axis = plt.subplot(111)
 
 # plot the data
