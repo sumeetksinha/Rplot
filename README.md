@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/213849240.svg)](https://zenodo.org/badge/latestdoi/213849240)
+
 Rplot
 =========
 
